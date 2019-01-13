@@ -1,0 +1,14 @@
+{
+  "testCases" : [ {
+    "uid" : "e598adab-d840-4d33-9546-6ebcbe45f14b",
+    "name" : "Shopping",
+    "title" : "Shopping",
+    "time" : {
+      "start" : 1547385364091,
+      "stop" : 1547385391431,
+      "duration" : 27340
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

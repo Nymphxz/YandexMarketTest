@@ -1,0 +1,37 @@
+{
+  "time" : {
+    "start" : 1547385364076,
+    "stop" : 1547385394464,
+    "duration" : 30388
+  },
+  "testSuites" : [ {
+    "uid" : "0fa8293e-ac67-4022-afcf-6852b6b7e45b",
+    "name" : "YandexMarketTest",
+    "title" : "Yandex market test",
+    "time" : {
+      "start" : 1547385364076,
+      "stop" : 1547385394464,
+      "duration" : 30388
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "skipped" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "e598adab-d840-4d33-9546-6ebcbe45f14b",
+      "name" : "Shopping",
+      "title" : "Shopping",
+      "time" : {
+        "start" : 1547385364091,
+        "stop" : 1547385391431,
+        "duration" : 27340
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}
