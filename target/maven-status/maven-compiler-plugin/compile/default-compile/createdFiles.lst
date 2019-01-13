@@ -1,9 +1,0 @@
-pages\SingleLaptopPage.class
-actions\Checks.class
-pages\SpecPage$1.class
-pages\SpecPage.class
-pages\ComputersPage.class
-pages\LaptopPage.class
-actions\Operations.class
-pages\MainPage.class
-pages\SpecPage$LaptopPower.class
